@@ -1,0 +1,18 @@
+{
+  "name": "ntu-class-schedule-scraper",
+  "version": "0.0.1",
+  "description": "A website scraper that rearranges the NTU class schedule according to venue",
+  "main": "scraper.js",
+  "dependencies": {
+    "puppeteer": "^1.17.0"
+  },
+  "keywords": [
+    "scraper",
+    "NTU",
+    "classroom",
+    "venue",
+    "schedule"
+  ],
+  "author": "Zaw Lin Htoo",
+  "license": "MIT"
+}
